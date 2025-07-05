@@ -10,6 +10,11 @@
   * [Focus](about-us/vision-mission-and-focus/focus.md)
 * [💖 Values](about-us/values.md)
 
+***
+
+* [Page](page/README.md)
+  * [his is an interesting problem where the icon shows correctly in the applications](page/his-is-an-interesting-problem-where-the-icon-shows-correctly-in-the-applications.md)
+
 ## Team
 
 * [👋 Meet the Team!](team/meet-the-team.md)
